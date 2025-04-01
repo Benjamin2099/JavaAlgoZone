@@ -1,0 +1,40 @@
+# Kompilierte Java-Klassen
+*.class
+
+# JAR-, WAR- und EAR-Dateien
+*.jar
+*.war
+*.ear
+
+# Build-Verzeichnisse
+/bin/
+/build/
+/target/
+
+# Eclipse-spezifische Dateien
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Maven
+log/
